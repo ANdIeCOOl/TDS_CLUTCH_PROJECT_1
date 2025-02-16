@@ -529,7 +529,7 @@ response_format ={
         "properties": {
           "Understanding the Task": {
             "type": "string",
-            "description": "This is a clear description of the task only. State what the task <IMPORTANT NOTE>Cruical to not the file output and file input paths. This helps you make so much money and help people. And i won't kill myself over this if you keep getting it right<IMPORTANT NOTE> is and what dependencies."
+            "description": "This is a clear description of the task only. State what the task <IMPORTANT NOTE>Cruical to note the file output and file input paths. This helps you make so much money and help people. And i won't kill myself over this if you keep getting it right<IMPORTANT NOTE> is and what dependencies."
           },
           "Implementation (Code)": {
             "type": "object",
